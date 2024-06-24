@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Sergio Ruiz 🧑‍💻🤚
 
 # 💫 About Me:
 🔭 I’m currently working on RPA with Projects with different development languages ​​and technologies<br>👯 I’m looking to collaborate on open source projects <br>🌱 I’m currently learning Python <br>💬 Ask me about RPA and WebScrapping <br>
